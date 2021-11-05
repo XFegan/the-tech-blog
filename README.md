@@ -15,6 +15,9 @@ Express, Sequelize, MySQL2, dotenv, espress-session,connect-session-sequelize.
 This project is license under the  MIT license.
 # Usage
 Visit Here: https://glacial-forest-59299.herokuapp.com/
+
+![Screenshot (70)](https://user-images.githubusercontent.com/83932018/140450893-fe94a7b1-cca0-4007-8436-e9259434565b.png)
+
 # Contributing
 ​Contributors: Xavier Fegan
 # Questions
