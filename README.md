@@ -1,6 +1,6 @@
 # the-tech-blog
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-#Description
+# Description
 This application is a CMS-style blog application that allows people to sign up, publish, comment, and like articles and posts from other users. 
 # Table of Contents 
 * [Installation](#installation)
@@ -14,7 +14,7 @@ Express, Sequelize, MySQL2, dotenv, espress-session,connect-session-sequelize.
 # License
 This project is license under the  MIT license.
 # Usage
-Visit Here: 
+Visit Here: https://glacial-forest-59299.herokuapp.com/
 # Contributing
 ​Contributors: Xavier Fegan
 # Questions
